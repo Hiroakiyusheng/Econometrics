@@ -1,4 +1,7 @@
 # Econometrics
+Creelのエコノメ講義ノート
+付属のjuliaコードも要参照
+
 First year graduate level econometrics notes with embedded examples using the Julia language.
 
 The notes cover linear regression models in the first half (about 30 hours of class time). The second half (another 30-40 hours of class time) moves on to nonlinear optimization, maximum likelihood and GMM estimation of potentially nonlinear models. After these core methods, there are several chapters which introduce more specialized topics such as panel data, quantile regression, nonparametric methods, etc.
